@@ -1,0 +1,40 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (practical1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MainMenu.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(19,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(24,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(45,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(45,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(91,111): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(91,101): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(91,208): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(96,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(96,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(105,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(105,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(120,37): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(136,30): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(178,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(192,112): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(192,102): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(192,209): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(237,38): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(239,39): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(247,78): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(247,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(250,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(274,72): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(274,37): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(276,34): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(278,35): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(286,76): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(286,52): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(289,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(301,72): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(301,37): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(303,34): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(305,35): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(313,76): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(313,52): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\ASUS\source\repos\assignment\practical1\MainMenu.cpp(316,26): warning C4305: '=': truncation from 'double' to 'float'
+  practical1.vcxproj -> C:\Users\ASUS\source\repos\assignment\Debug\Assignment.exe
